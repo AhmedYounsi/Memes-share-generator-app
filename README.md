@@ -1,4 +1,4 @@
-# app-chat-2021
+# Application web pour partage memes + memes editor + messagerie
 
 ## Project setup
 ```
