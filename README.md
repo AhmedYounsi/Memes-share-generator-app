@@ -1,4 +1,7 @@
-# Application web pour partage memes + memes editor + messagerie
+# Application web pour partage memes
+# memes editor : ajouter text aux images et partager avec amis
+#real time chat + appel video (web rtc)
+# vue js, node js
 
 ## Project setup
 ```
