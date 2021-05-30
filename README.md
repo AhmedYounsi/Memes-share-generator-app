@@ -1,5 +1,5 @@
 # Application web pour partage memes
-# similaire à Instagram
+#similaire à Instagram
 #memes editor : ajouter text aux images et partager avec amis
 #real time chat + appel video (web rtc)
 #vue js, node js
